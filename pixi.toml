@@ -2,7 +2,7 @@
 authors = ["Liz Ing-Simmons (k2474365) <liz.ing-simmons@kcl.ac.uk>"]
 channels = ["conda-forge"]
 name = "pixi-env"
-platforms = ["osx-arm64"]
+platforms = ["osx-arm64", "linux-64"]
 version = "0.1.0"
 
 [tasks]
