@@ -46,6 +46,7 @@ python = "3.12.*"
 openslide = ">=4.0.0,<5"
 jupyterlab = ">=4.4.6,<5"
 r-base = ">=4.5.1,<4.6"
+pyvips = ">=3.0.0,<4"
 
 [pypi-dependencies]
 patchify = ">=0.1.1, <0.2"
